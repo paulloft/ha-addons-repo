@@ -1,0 +1,4 @@
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: Personal addons
+url: "https://github.com/paulloft/ha-addons-repo"
+maintainer: PaulLoft <info@paulloft.ru>
