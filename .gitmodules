@@ -1,0 +1,6 @@
+[submodule "tuya-doorbell"]
+	path = tuya-doorbell
+	url = https://github.com/paulloft/ha-tyua-doorbell.git
+[submodule "evo73"]
+	path = evo73
+	url = git@github.com:paulloft/ha-evo73.git
